@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm halcon 👋
 
-<!--
-**halcon0809/halcon0809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Engineer with 4+ years of experience building backend systems and AI-powered applications.
 
-Here are some ideas to get you started:
+## 💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- FastAPI
+- LangChain
+- RAG
+- Hugging Face
+- Docker
+- AWS
+- PostgreSQL
+- Redis
+
+## 🌱 Currently Working On
+
+- Rebuilding my AI portfolio
+- Production-ready RAG applications
+- FastAPI backend services
+
+## 📫 Contact
+
+- LinkedIn: (Coming Soon)
+- Email: kai.lee0809@outlook.com
